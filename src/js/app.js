@@ -145,6 +145,7 @@ new Vue({
       console.log(value);
       this.noReplyOnly = value;
       this.applyFilter();
+
     },
 
     resetTopLanguages() {

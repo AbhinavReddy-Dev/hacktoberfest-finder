@@ -6,6 +6,9 @@
 - [agonzalezio](https://github.com/agonzalezio)
 - [TicTak21](https://github.com/TicTak21)
 - [Abhinav Reddy](https://github.com/AbhinavReddy-Dev)
+- [BetaHuhn](https://github.com/BetaHuhn)
+- [Shaddamah](https://github.com/Shaddamah)
+
 
 ## 2019
 
